@@ -24,7 +24,7 @@ def sc():
         else:
             print("Invalid word : please use either yes or no.")
 
-def main():
+def main1():
     u = input("Do you want to use the simple calculator? ")
     while u == ("yes"):
         sc()
@@ -41,5 +41,5 @@ def main():
         print("AD inc. TM")
         quit
 
-main()    
+main1()    
     
