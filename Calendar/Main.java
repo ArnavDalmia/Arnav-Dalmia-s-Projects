@@ -9,11 +9,11 @@ class Main {
 		while(true)
 		{
 			
-			int ch;
-			System.out.println("enter 1 to enter date ");
-			System.out.println("enter 2 to disp date");
-			System.out.println("enter 3 to add days");
-			System.out.println("enter 4 to add months");
+		    int ch;
+		    System.out.println("enter 1 to enter date ");
+		    System.out.println("enter 2 to disp date");
+		    System.out.println("enter 3 to add days");
+		    System.out.println("enter 4 to add months");
 		    System.out.println("enter 5 to add year");
 		    System.out.println("enter 6 to exit");
 		    System.out.println("enter your choice");
